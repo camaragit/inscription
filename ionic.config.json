@@ -1,0 +1,7 @@
+{
+  "name": "inscription",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
